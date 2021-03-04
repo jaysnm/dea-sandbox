@@ -96,6 +96,7 @@ richdem
 ,cffi\
 ,cftime\
 ,cryptography\
+,pygeos \
 ,lxml\
 ,lmdb\
 ,numexpr\
