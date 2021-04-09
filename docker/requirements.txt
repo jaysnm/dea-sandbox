@@ -36,8 +36,8 @@ cattrs
 structlog
 
 # Scientific Stack
-dask[complete]==2.30.0
-distributed==2.30.0
+dask[complete]==2021.3.0
+distributed==2021.3.0
 dask-image
 dask-ml
 tensorflow==2.3.1
