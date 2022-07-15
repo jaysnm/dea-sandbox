@@ -38,7 +38,7 @@ structlog
 
 # Scientific Stack
 dask[complete]==2.30.0
-distributed==2.30.0
+distributed==2021.10.0
 dask-image
 dask-ml
 tensorflow==2.4.2
